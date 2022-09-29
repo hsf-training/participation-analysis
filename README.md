@@ -16,13 +16,21 @@
 
 ## 📝 Description
 
-Analyze surveys and participation
+Analyze surveys and participation of our events.
+
+> **Warning**
+> Never track the data in this repository! Please put all data in the (ignored) `data` directory. Please make sure to install `pre-commit` to clear all outputs from notebooks.
 
 ## 📦 Installation
 
 ## 🔥 Running it!
 
 ## 🧰 Development setup
+
+```bash
+pip3 install pre-commit
+pre-commit install
+```
 
 ## 💖 Contributing
 
