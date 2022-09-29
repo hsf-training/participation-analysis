@@ -1,0 +1,20 @@
+{
+  "template": "/Users/fuchur/Documents/22/git_sync/python-cookiecutter",
+  "commit": "c0ad53d4466f0a042bb838b729a18ef4a4e82b48",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "participation-analysis",
+      "package_name": "hsfparana",
+      "description": "Analyze surveys and participation",
+      "url": "https://github.com/hsf-training/participation-analysis",
+      "full_name": "Kilian Lieret",
+      "email": "kilian.lieret@posteo.de",
+      "maintainer": "Kilian Lieret",
+      "maintainer_email": "kilian.lieret@posteo.de",
+      "year": "2022",
+      "_template": "/Users/fuchur/Documents/22/git_sync/python-cookiecutter"
+    }
+  },
+  "directory": null
+}
