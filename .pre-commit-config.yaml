@@ -41,11 +41,11 @@ repos:
     hooks:
       - id: codespell
         args: ["-I", "codespell.txt"]
-  - repo: https://github.com/kynan/nbstripout
-    rev: 0.6.1
-    hooks:
-      - id: nbstripout
-        args: ["--extra-keys", "cell.metadata.pycharm"]
+  # - repo: https://github.com/kynan/nbstripout
+  # rev: 0.6.1
+  # hooks:
+  # - id: nbstripout
+  # args: ["--extra-keys", "cell.metadata.pycharm"]
   - repo: https://github.com/asottile/pyupgrade
     rev: v3.3.1
     hooks:
