@@ -19,8 +19,8 @@
 Analyze surveys and participation of our events.
 
 > **Warning**
-> Never track the data in this repository! Please put all data in the (ignored) `data` directory. Please make sure to install `pre-commit` to clear all outputs from notebooks.
-
+> Never track the data in this repository! Please put all data in the (ignored) `data` directory. 
+> 
 ## 📦 Installation
 
 ## 🔥 Running it!
