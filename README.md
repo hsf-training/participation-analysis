@@ -19,8 +19,8 @@
 Analyze surveys and participation of our events.
 
 > **Warning**
-> Never track the data in this repository! Please put all data in the (ignored) `data` directory. 
-> 
+> Never track the data in this repository! Please put all data in the (ignored) `data` directory.
+
 ## 📦 Installation
 
 ## 🔥 Running it!
