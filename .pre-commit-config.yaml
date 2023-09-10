@@ -36,6 +36,8 @@ repos:
     rev: "v1.2.0"
     hooks:
       - id: mypy
+        additional_dependencies:
+          - types-python-dateutil
   - repo: https://github.com/codespell-project/codespell
     rev: "v2.2.4"
     hooks:
