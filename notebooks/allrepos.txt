@@ -1,7 +1,7 @@
+analysis-essentials
 participation-analysis
 hsf-training-databases-basics
 .github
-analysis-essentials
 cpluspluscourse
 training-center
 analyze-state-of-training-survey
