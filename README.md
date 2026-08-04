@@ -10,7 +10,7 @@
 [![link checker](https://github.com/hsf-training/participation-analysis/actions/workflows/check-links.yaml/badge.svg)](https://github.com/hsf-training/participation-analysis/actions)
 [![Coveralls](https://coveralls.io/repos/github/hsf-training/participation-analysis/badge.svg?branch=main)](https://coveralls.io/github/hsf-training/participation-analysis?branch=main)
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
-[![License](https://img.shields.io/github/license/hsf-training/participation-analysis)](https://github.com/hsf-training/participation-analysis/blob/master/LICENSE.txt)
+[![License](https://img.shields.io/github/license/hsf-training/participation-analysis)](https://github.com/hsf-training/participation-analysis/blob/main/LICENSE.txt)
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 [![PR welcome](https://img.shields.io/badge/PR-Welcome-%23FF8300.svg)](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 
