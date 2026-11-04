@@ -10,9 +10,13 @@ repos:
       - id: check-added-large-files
       - id: check-case-conflict
       - id: check-merge-conflict
+      - id: check-symlinks
+      - id: check-yaml
+      - id: debug-statements
       - id: detect-private-key
       - id: end-of-file-fixer
         exclude: '.*\.ipynb'
+      - id: mixed-line-ending
       - id: trailing-whitespace
   - repo: https://github.com/pycqa/isort
     rev: 9.0.2
@@ -66,3 +70,5 @@ repos:
 
 ci:
   autoupdate_schedule: monthly
+  autoupdate_commit_msg: "chore(deps): update pre-commit hooks"
+  autofix_commit_msg: "style: pre-commit fixes"
